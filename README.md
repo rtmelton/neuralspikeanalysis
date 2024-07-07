@@ -1,12 +1,3 @@
----
-title: "Exploratory Data Analysis of Neural Spike Data for Facial Identity"
-author: "Raymond T Melton"
-date: "06-30-2024"
-output:
-  html_document:
-    keep_md: yes
----
-
 #  Exploratory Data Analysis of Neural Spike Data for Facial Identity
 
 Raymond T Melton, 06-30-2024
