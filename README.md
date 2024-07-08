@@ -23,7 +23,7 @@ and the
 A total of 2000 stimuli were presented, and 650 millisecond long recordings were taken from about 100 neurons from each of the two areas. The stimuli were comprised of human faces.
 The recordings indicate whether there was a neural spike or not during any given millisecond.
 
-The data will not be reproduced here, at the paper authors' request. The data is made available by contacting the papers' authors. At note about this in the Follow-up.
+The data will not be reproduced here, at the paper authors' request. The data is made available by contacting the papers' authors. We may  be able to simulate this data, as pointed out in the follow-up.
 
 ## The Histograms Themselves  
 
